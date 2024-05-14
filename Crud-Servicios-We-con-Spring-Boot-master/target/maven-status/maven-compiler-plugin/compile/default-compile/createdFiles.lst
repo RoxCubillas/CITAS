@@ -1,0 +1,17 @@
+com\practicaswrest\entity\Alertas.class
+com\practicaswrest\service\AlertasService.class
+com\practicaswrest\controller\AlertasController.class
+com\practicaswrest\service\CitasService.class
+com\practicaswrest\entity\Doctor.class
+com\practicaswrest\repo\CitasRepo.class
+com\practicaswrest\PracticaswrestApplication.class
+com\practicaswrest\repo\DoctorRepo.class
+com\practicaswrest\entity\Citas.class
+com\practicaswrest\service\DoctorService.class
+com\practicaswrest\service\PacienteService.class
+com\practicaswrest\entity\Paciente.class
+com\practicaswrest\controller\CitasController.class
+com\practicaswrest\controller\PacienteController.class
+com\practicaswrest\repo\AlertasRepo.class
+com\practicaswrest\controller\DoctorController.class
+com\practicaswrest\repo\PacienteRepo.class
